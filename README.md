@@ -34,6 +34,6 @@ cd target/release
 ./sais <filename>
 ```
 
-then the tool run. \<filename\> is your input text data file.  
+then the tool run. `<filename>` is your input text data file.  
 Elapsed time for running (just during constructing suffix array) and constructed suffix array will be displayed.
 

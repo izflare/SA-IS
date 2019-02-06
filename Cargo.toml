@@ -1,6 +1,7 @@
 [package]
 name = "sais"
 version = "0.1.0"
-authors = ["flare <flareolatry@gmail.com>"]
+authors = ["flare"]
 
 [dependencies]
+clap = "2.20.3"

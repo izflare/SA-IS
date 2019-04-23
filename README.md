@@ -21,7 +21,7 @@ This code has been tested under linux compiling with rust (cargo) ver 1:1.30.1-1
 After download the repository, 
 
 ```
-cd sais
+cd SA-IS
 cargo build --release
 ```
 

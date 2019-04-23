@@ -12,7 +12,7 @@ This algorithm is proposed in the following paper:
 To clone the repository, call
 
 ```
-git clone https://github.com/izflare/sais.git
+git clone https://github.com/izflare/SA-IS.git
 ```
 
 ### Compile
